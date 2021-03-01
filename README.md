@@ -1,4 +1,4 @@
-# LINE Login for Golang
+# LINE Login for Go
 LINE Login package for Go and authorizer for http server
 
 ## Support API
