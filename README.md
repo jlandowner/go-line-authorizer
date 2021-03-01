@@ -12,6 +12,8 @@ LINE Login package for Go and authorizer for http server
 - get-user-profile
   https://developers.line.biz/ja/reference/line-login/#get-user-profile
 
+## Docs
+https://pkg.go.dev/github.com/jlandowner/go-line-authorizer
 
 ## Install
 ```sh
